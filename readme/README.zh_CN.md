@@ -1,4 +1,4 @@
-# Readme
+# README
 - en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
 - ru [Ридем](README.ru.md)
 
