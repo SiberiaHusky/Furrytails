@@ -1,5 +1,5 @@
 # Readme
-- en [Readme](README.md)
+- en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
 - ru [Ридем](readme/README.ru.md)
 
 # 关于
