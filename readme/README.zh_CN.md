@@ -1,5 +1,6 @@
-- [English readme](README.md)
-- [Русский ридем](readme/ru.md)
+# Readme
+- en [Readme](README.md)
+- ru [Ридем](readme/README.ru.md)
 
 # 关于
 Furski 是一款使用 Material You 设计的 e926 与 e621 第三方安卓 app
