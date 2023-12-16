@@ -1,4 +1,4 @@
-# Readme
+# README
 - zh-CN [说明](readme/README.zh_CN.md)
 - ru [Ридем](readme/README.ru.md)
 
