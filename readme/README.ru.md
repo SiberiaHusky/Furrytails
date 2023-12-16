@@ -1,6 +1,6 @@
 # README
-- en [Readme](README.md)
-- zh-CN [说明](readme/README.zh_CN.md)
+- en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
+- zh-CN [说明](README.zh_CN.md)
 
 # В отношении
 Furski - это стороннее приложение для Android для e926 и e621, разработанное с использованием Material You.
