@@ -1,6 +1,6 @@
 # Readme
 - en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
-- ru [Ридем](readme/README.ru.md)
+- ru [Ридем](README.ru.md)
 
 # 关于
 Furski 是一款使用 Material You 设计的 e926 与 e621 第三方安卓 app
