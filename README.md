@@ -1,5 +1,7 @@
-- [简体中文说明](readme/zh_CN.md)
-- [Русский ридем](readme/ru.md)
+# Readme
+- en [Readme](README.md)
+- zh-CN [简体中文说明](readme/README.zh_CN.md)
+- ru [Русский ридем](readme/README.ru.md)
 
 # About
 Furski is an unofficial Android app for e926 and e621 designed with Material You.
