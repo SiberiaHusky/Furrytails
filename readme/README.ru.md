@@ -1,17 +1,19 @@
 # README
 - en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
-- zh-CN [说明](README.zh_CN.md)
+- zh-CN [说明](README.zh.md)
 
-# В отношении
-Furski - это стороннее приложение для Android для e926 и e621, разработанное с использованием Material You.
+# About
+Furski - это стороннее Android-приложение для e926 и e621, созданное с использованием Material You.
 
 # Как использовать
-Перейдите на [Официальный сайт](https://pj.hooskai.top/furski/) и скачайте APK-файл или используйте OpenLuaX+ для работы с исходным кодом (распакуйте ZIP-файл и поместите его в папку "projects").
+- Обычные пользователи: перейдите на [официальный сайт](https://pj.hooskai.top/furski/), чтобы скачать APK-файл.
+- Модификатор (версия OpenLuaX+): используйте OpenLuaX+ для работы с исходным кодом (распакуйте ZIP-файл и поместите его в папку "projects").
+- Модификатор (версия Kotlin): Я новичок в Kotlin, почему бы вам не погуглить, а не слушать меня?
 
-# Вопросы
-Если у вас есть вопросы, вы можете оставить их, нажав "Issues", или отправить мне личное сообщение с помощью [X(Twitter)](https://twitter.com/hhusky0314).
+# Проблемы
+Если у вас есть вопросы, вы можете оставить их, нажав на кнопку "Проблемы", или отправить мне личное сообщение, используя [X (Twitter)](https://twitter.com/hhusky0314).
 
 # Поддержка разработчиков
 - [Buy Me a Coffee](https://buymeacoffee.com/hooskai)
-- [爱发电 Afdian](https://afdian.net/a/hooskai)
-- Поделитесь информацией о Furski в социальных сетях.
+- [Love Power Afdian](https://afdian.net/a/hooskai)
+- Поделитесь Furski на социальных платформах
