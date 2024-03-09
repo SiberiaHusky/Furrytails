@@ -6,7 +6,9 @@
 Furski is an unofficial Android app for e926 and e621 designed with Material You.
 
 # How to use
-Go to the [Official website](https://pj.hooskai.top/furski/) to download the APK file or use OpenLuaX+ to use the source code(Extract the ZIP file and place it in the "projects" folder).
+For normal users: Go to the [Official website](https://pj.hooskai.top/furski/) to download the APK file.
+For modifiers (OpenLuaX+ version): use OpenLuaX+ to use the source code(Extract the ZIP file and place it in the "projects" folder).
+For modifiers (Kotlin version): I'm new to kotlin, so why don't you google it?
 
 # Issues
 If you have any issues, you can click "issues" to leave an issue or use [X(Twitter)](https://twitter.com/hhusky0314) to send me a PM.
