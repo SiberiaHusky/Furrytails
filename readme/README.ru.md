@@ -15,5 +15,5 @@ Furski - это стороннее Android-приложение для e926 и e
 
 # Поддержка разработчиков
 - [Buy Me a Coffee](https://buymeacoffee.com/hooskai)
-- [Love Power Afdian](https://afdian.net/a/hooskai)
+- [Afdian](https://afdian.net/a/hooskai)
 - Поделитесь Furski на социальных платформах
