@@ -1,6 +1,6 @@
 # README
 - en [Readme](https://github.com/SiberiaHusky/Furski/blob/main/README.md)
-- zh-CN [说明](README.zh.md)
+- zh-CN [说明](README.zh_CN.md)
 
 # About
 Furski - это стороннее Android-приложение для e926 и e621, созданное с использованием Material You.
@@ -14,6 +14,6 @@ Furski - это стороннее Android-приложение для e926 и e
 Если у вас есть вопросы, вы можете оставить их, нажав на кнопку "Issues", или отправить мне личное сообщение, используя [X (Twitter)](https://twitter.com/hhusky0314).
 
 # Поддержка разработчиков
-- [Buy Me a Coffee](https://buymeacoffee.com/hooskai)
+- [Ko-Fi](https://ko-fi.com/hooskai)
 - [Afdian](https://afdian.net/a/hooskai)
 - Поделитесь Furski на социальных платформах
