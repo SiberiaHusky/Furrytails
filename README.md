@@ -14,6 +14,6 @@ Furski is an unofficial Android app for e926 and e621 designed with Material You
 If you have any issues, you can click "issues" to leave an issue or use [X(Twitter)](https://twitter.com/hhusky0314) to send me a PM.
 
 # Support developer
-- [Buy Me a Coffee](https://buymeacoffee.com/hooskai)
+- [Ko-Fi](https://ko-fi.com/hooskai)
 - [爱发电 Afdian](https://afdian.net/a/hooskai)
 - Share Furski on social platforms.
