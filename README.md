@@ -1,5 +1,6 @@
 # About
 Furrytails is an unofficial Android app for e926 and e621 designed with Material You.
+(Currently, Furrytails is undergoing refactoring, and the downloadable APK file is Furski (old version).)
 
 # How to use
 - For normal users: Go to the [Official website](https://pj.hooskai.top/furski/) to download the APK file.
